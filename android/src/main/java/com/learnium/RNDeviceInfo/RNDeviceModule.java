@@ -30,6 +30,8 @@ import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.Callback;
 import com.facebook.react.bridge.Promise;
 
+import com.google.firebase.iid.FirebaseInstanceId;
+
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
